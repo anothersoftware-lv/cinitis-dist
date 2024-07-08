@@ -1,0 +1,23 @@
+{
+  "defaultHomeserver": 0,
+  "homeserverList": [
+    "pasta.kaste.wtf"
+  ],
+  "allowCustomHomeservers": true,
+
+  "featuredCommunities": {
+    "openAsDefault": false,
+    "spaces": [
+      "#tiktok:pasta.kaste.wtf"
+    ],
+    "rooms": [
+      "#cinny:matrix.org"
+    ],
+    "servers": ["pasta.kaste.wtf"]
+  },
+
+  "hashRouter": {
+    "enabled": false,
+    "basename": "/"
+  }
+}
